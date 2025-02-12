@@ -1,0 +1,87 @@
+Website:Php,Java,Python,.net
+App : Android,Ios,Flutter
+Desktop Software : Java,.net
+Other Tech : Node,Angular,react
+
+
+
+Testing:
+Testing is a process used to identify
+correctness,completeness and quality
+of developed computer software.
+
+
+correctness:
+image - down
+image - HD images
+image - high
+completeness: fullfill requirement
+quality
+
+
+->Error : If Developer makes a mistake in code 
+
+->Defect : If that error found by tester the it's called defect
+
+->Bug : If Tester assigns the defect to developer and development 
+team will accept that defect then it's called bug.
+
+
+Reports:
+
+1) HLR
+2) Testcase
+3) TestScenario
+4) Defect Report
+
+QA -> Quality Assurance Engineer
+QC -> Quality Control Enginneer
+Tester -> Software testing,Manual Testing
+
+Activity : Activity 
+Process : 4 process = 1 activity
+
+Lifecycle:
+SDLC -> Software Development Lifecycle
+STLC -> Software Testing Lifecycle
+
+Static Testing :
+It can test and find defects without executing code
+
+Dynamic Testing :In dynamic testing the software code is executed to
+demonstrate the result of running tests.
+
+SDLC Stages:
+
+1)Reuirement Gathering
+2)Analysis
+3)Design
+4)Implementation->Coding
+5)Testing
+6)Maintenance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
