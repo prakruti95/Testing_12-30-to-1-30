@@ -1,0 +1,46 @@
+Design
+GUI -> Graphical User Interface
+
+If Any website is taking more time to operate function
+Response Time Poor
+
+1)Requirement Gathering
+ ->Functional Requirement
+ ->Non Functional Requirement
+
+Design : 
+
+Web Design
+Graphic Designer
+
+
+Backend Developer
+
+Maintenance:
+1)Corrective
+2)Adaptive
+3)Perfective Maintenance
+
+Software:
+RFFlow
+draw.io
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
