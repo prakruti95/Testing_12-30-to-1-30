@@ -1,0 +1,51 @@
+Re-Testing => confirmation testing
+Regression Testing=> existing features
+
+DBMS->Database Management System
+RDBMS->Relational Database Management System
+
+Queries
+
+Software:
+WAMP
+W=>Windows[OP]
+A=>Apache[Server]
+M=>Mysql[Database]
+P=>phpmyadmin
+
+LAMP
+L=>Linux[OP]
+A=>Apache[Server]
+M=>Mysql[Database]
+P=>phpmyadmin
+
+MAMP
+M=>Mac[OP]
+A=>Apache[Server]
+M=>Mysql[Database]
+P=>phpmyadmin
+
+XAMPP
+X=>Cross Platform[in ANY OS]
+A=>Apache[Server]
+M=>Mysql[Database]
+P=>perl
+P=>phpmyadmin
+
+SQL -> Structured Query Language
+MYSQL -> Database
+
+Database: MSAccess,Mysql,Realm,Mongodb,
+
+You can work
+1)Manually
+2)Using Query
+
+Crud operation
+create
+read
+update
+delete
+
+
+
