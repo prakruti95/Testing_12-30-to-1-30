@@ -1,0 +1,173 @@
+SQL ->
+
+Db - MYSQL
+
+Types of Commands in MYSQL
+
+1) DDL -> create,alter,drop,truncate,rena
+
+2) DML -> insert,update,delete
+
+3) DQL -> select
+
+4) DCL -> rollback,commit
+
+JOINS:
+1) LEFT JOIN
+2) RIGHT JOIN
+3) INNER JOIN
+4) FULL JOIN
+
+
+
+=> Functional Testing:
+1)Black box testing
+-> Equivalence Partitioning
+-> Boundry Value Analysis
+-> Decision Tables
+-> State Transition Testing
+-> Other Black Box Testing
+-> Usecase Testing
+
+
+2)white box testing
+
+-> Condition Coverage
+-> Statement Coverage
+-> Decision Coverage
+
+3)Smoke Testing 
+
+4)sanity testing
+
+5)End to end testing
+
+6)Experience based testing
+-> Grey Box
+-> Adhoc
+-> Exploratory
+
+
+
+=> Non Functional Testing
+
+1) Stress Testing
+2) Load Testing
+3) Performance Testing
+4) Security TEsting
+5) Usability Testing
+6) GUI Testing
+7) Compatibility Testing
+
+-> We will Maximu Followed Functional Testing
+
+Defect Life cycle
+
+New
+
+Assigned
+
+Open ->Reject,Not a bug,Deferred,Duplicate 
+
+|
+
+Fixed
+
+Pending Retest
+
+Retest - Reopen
+
+Verify 
+
+Closed
+
+SDLC: Software Development Lifecycle
+1)Requirement Gathering
+2)Analysis
+3)Design
+4)Implementation
+5)Testing
+6)Maintenance
+ -> corrective
+ -> adative
+ -> perfective
+
+STLC => Software Testing Lifecycle
+
+1)Requirement Analysis
+2)Test Planning
+3)Testcase Development
+4)Environment Setup
+5)Test Execution
+6)Test cycle Closure
+
+QA => Quality Assurance
+QC => Quality Control
+
+Testing => Correctness,Completeness and quality
+
+Testing vs debugging
+
+Tester - Testing
+Developer - Debugging
+
+Models:
+Waterfall
+Iterative
+Spiral
+Agile
+V-Model => Verification and Validation 
+
+Levels of Software Testing
+
+1) Unit Testing
+2) Integration Testing
+3) System Testing
+4) Acceptance Testing
+
+
+Regression Testing:
+
+Re-Testing
+
+7 key Princi Stages:
+
+Product vs Project based
+
+Layers:
+
+Tiers:
+
+System Enviroment Flow:
+
+Scenarios:
+Fan:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
