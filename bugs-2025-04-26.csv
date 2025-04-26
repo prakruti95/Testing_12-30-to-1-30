@@ -1,0 +1,7 @@
+Defect_id,Testcase ID,Functionality ID,Defect Description,Defect Summary,Steps,Test data,Defect Type,expected result,actual result,Tester Name,attachment,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,,,,,,
+5,53,303,Check About Dialog Play Button,"Video Shows an Error The media could not be loaded, either because the server or network failed or because the format is not supported.",,,Functionality Defect,,,Prakruti@gmail.com,-,major,High,Windows,mehul@gmail.com,ASSIGNED,---,,,,,,
+8,,,,There is no validation for email,,,,,,Prakruti@gmail.com,-,major,High,Windows,mehul@gmail.com,ASSIGNED,---,,,,,,
+4,,,,it's closed using icon and button but didn't close using esc button,,,,,,Prakruti@gmail.com,-,normal,Normal,Windows,mehul@gmail.com,ASSIGNED,---,,,,,,
+6,,,,Video is not played from first but it starts from nwhere you stopped,,,,,,Prakruti@gmail.com,-,normal,Normal,Windows,mehul@gmail.com,ASSIGNED,---,,,,,,
+7,,,,There is no validation for empty data for any field,,,,,,Prakruti@gmail.com,-,major,High,Windows,mehul@gmail.com,CLOSED,DUPLICATE,,,,,,
+9,,,,There is no validation for email,,,,,,Prakruti@gmail.com,0,major,Normal,Windows,mehul@gmail.com,CLOSED,FIXED,,,,,,
