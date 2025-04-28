@@ -1,0 +1,61 @@
+Timeline ->
+
+Epic -> Main Aim ->5
+Story -> Stories ->15
+Task -> Expected Result->5
+Bug -> Actual Result->5
+
+
+Backlog-> Sprint
+sprint 1[3 week]
+3
+10
+2
+2
+
+sprint 2[3 week]
+
+Board -> Current Scenario
+
+Agile Testing
+JIRA Software
+Agile Testing
+
+We can create reports
+we can do analysis
+we can work with All Scenarios
+
+Epic -> i want to create hospital for covid patients for 100 beds
+
+Story 
+-> i want 100 beds
+-> i want minimum 5 doctors
+-> i want 500 type of medicines 
+
+Task
+->expected result
+
+Bug
+->actual result
+
+Timeline
+Epic
+Story
+Task
+Bug
+
+-> JIRA Account Create
+-> JIRA Project
+
+
+
+
+
+
+
+
+
+
+
+
+
