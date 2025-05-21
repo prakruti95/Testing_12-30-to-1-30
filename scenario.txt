@@ -1,0 +1,16 @@
+🧾 1. Customer is unable to download an invoice from their account. How will you troubleshoot?
+📧 2. A user reports not receiving a confirmation email after signing up. What steps will you take?
+🧭 3. The website works fine in Chrome, but the layout breaks in Firefox. What will you check?
+⏱️ 4. Application is very slow during peak hours. How will you investigate and report the issue?
+🛑 5. Login fails only for specific users, even though credentials are correct. How do you debug this?
+🔐 6. User gets “Access Denied” when trying to view their profile page. What could be wrong?
+📂 7. You see a “500 Internal Server Error” while submitting a form. What would be your approach to find the issue?
+📱  8. Mobile app crashes when uploading a profile picture. How do you reproduce and report it?
+🧪 9. Automation test cases are suddenly failing after a new release. What will you check first?
+🌐 10. A broken link is reported on the site. How do you confirm and report it with proper evidence?
+🎫 11. You find a bug but the developer says it’s “Not a Bug.” 
+How do you handle the situation professionally?
+📊 12. Data shown in the dashboard is incorrect compared to the database. How do you verify and raise this?
+🕵️ 13. A defect is hard to reproduce. What techniques can you use to capture and report it clearly?
+📡 14. The system is integrated with a third-party API and it fails intermittently. How do you troubleshoot this?
+🧹 15. Customer complains of strange behavior after a recent update. What steps do you follow to do a regression test?
